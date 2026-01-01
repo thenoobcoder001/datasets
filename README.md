@@ -59,10 +59,3 @@ Both datasets follow the same JSON schema structure, making them interchangeable
   "scraped_at": "2026-01-01T18:00:00"
 }
 ```
-
-## Usage Notes
-*   **Lumina App Default:** The application currently loads the **Core Clean Dataset** by default to ensure a focused user experience.
-*   **Switching Data:** To use the Massive 25k dataset, update the ingestion script configuration to point to `video_search_20k.json`.
-
----
-*Generated: January 1, 2026*
