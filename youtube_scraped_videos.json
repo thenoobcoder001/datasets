@@ -4,7 +4,7 @@
     "source": "YouTube Channels",
     "version": "1.0",
     "description": "Scraped videos from popular tech and science YouTube channels (Political content removed)",
-    "total_videos": 1260,
+    "total_videos": 1259,
     "domains": [
       "technology",
       "science",
@@ -14561,23 +14561,6 @@
         "Why Utah\u2019s Great Salt Lake is Dying"
       ],
       "primary_caption": "a video about why utah\u2019s great salt lake is dying",
-      "split": "train"
-    },
-    {
-      "video_id": "yt_O-9SE9mf2Rc",
-      "youtube_id": "O-9SE9mf2Rc",
-      "url": "https://www.youtube.com/watch?v=O-9SE9mf2Rc",
-      "category": "education",
-      "channel": "RealLifeLore",
-      "title": "Why Israel & Turkey Are Heading To War Over Syria",
-      "duration": 2447,
-      "view_count": 821395,
-      "captions": [
-        "a video about why israel & turkey are heading to war over syria",
-        "RealLifeLore explains why israel & turkey are heading to war over syria",
-        "Why Israel & Turkey Are Heading To War Over Syria"
-      ],
-      "primary_caption": "a video about why israel & turkey are heading to war over syria",
       "split": "train"
     },
     {
